@@ -1,4 +1,8 @@
-# Angular5Udemy
+# Learn Angular 5 from Scratch
+
+Based on [this Udemy course](https://www.udemy.com/angular-5).
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
